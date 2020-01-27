@@ -1,5 +1,5 @@
 {
-  "name": "thinktainer/bloomrpc-mock",
+  "name": "bloomrpc-mock",
   "description": "Automock your grpc services",
   "version": "0.2.9",
   "author": "Fabrizio Fenoglio (UtilityWarehouse)",
