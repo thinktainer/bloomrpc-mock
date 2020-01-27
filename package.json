@@ -51,7 +51,7 @@
   "oclif": {
     "bin": "bloomrpc"
   },
-  "repository": "uw-labs/bloomrpc",
+  "repository": "thinktainer/bloomrpc",
   "scripts": {
     "posttest": "tslint -p . -t stylish",
     "prepack": "rm -rf lib && tsc -b",
